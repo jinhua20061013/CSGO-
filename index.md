@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## csgo参数让你快乐
 
 You can use the [editor on GitHub](https://github.com/jinhua20061013/CSGO-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
